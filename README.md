@@ -28,6 +28,7 @@
     <img width='180' height='60' alt='Download on Flathub' src='https://flathub.org/assets/badges/flathub-badge-en.svg'/>
   </a>
 </p>
+
 ## puNES-smb3
 
 This fork was created to comply with the rules for Super Mario Bros. 3 speedrunning. An official with the commit fixing HLT instructions is required. 
